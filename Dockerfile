@@ -1,5 +1,5 @@
 # 1) BUILD STAGE: gera o JAR dentro do container
-FROM maven:3.8.8-openjdk-17 AS builder
+FROM maven:3.8.3-openjdk-17 AS builder
 
 WORKDIR /app
 
