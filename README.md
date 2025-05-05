@@ -15,8 +15,7 @@ Filipe: fez todos os services e controllers, ajustou Readme mostrando os endpoin
 </dependency>
 
 
-nada ta online ainda, então isso precisa ser ajustado
-o aplication.propries ja ta com os dados do banco de dados
+link do render: https://test-t1iw.onrender.com
 
 
 # para o postman
